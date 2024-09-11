@@ -1,12 +1,10 @@
 # QR-Code-Generator
 
-## Developed by Omid Firouzi
+### Developed by Omid Firouzi
 
-## Technologies Used - Html , css, TailwindCss , js
+- Technologies Used - Html , css, TailwindCss , js
 
-## ️ Role - Frontend
-
-## How to reach me : with my 
+- How to reach me : with my 
 [instagram](https://www.instagram.com/omid._web) and 
 [linkedin](https://linkedin.com/in/omid-firouzi-9793a62a9)
 
